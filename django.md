@@ -15,6 +15,14 @@ Then try installing the module with pip or another appropriate package manager.
 
 UNIX: `sudo pip install module`
 
+### Static Files Issues
+
+- Make sure STATIC_URL in your settings file(s) is properly set. Typically to `/static/`
+- Check that your templates call on your static files with `{% load staticfiles %}` at the top of the file
+- Make sure you're not accidentally including your STATIC_URL in your HTML links (e.g. `href="static/css/file.css"`)
+
+[Django docs](https://docs.djangoproject.com/en/1.9/howto/static-files/)
+
 ### MySQL errors
 
 If you've made any changes to your models you will have to make and apply 

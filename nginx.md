@@ -1,6 +1,6 @@
-# **NGINX**
+## **NGINX**
 
-## Cached Static Files Issues
+### Cached Static Files Issues
 
 This is in the case that either old versions of files are being served or static files are cut off.
 
