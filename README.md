@@ -1,12 +1,12 @@
 # common-web-dev-issues
 A repository of the common web dev issues and solutions that web developers often deal with.
-
+ 
 [original article](http://ericsu.me/tech/2016/01/25/common-web-dev-issues.html)
 
 So you're having some issues in your web environment. Before you start diving
 deep into documentation and Stack Overflow, check this guide to make sure you're not
 experiencing one of the really simple configuration issues that countless people have most likely experienced
-before.
+before. 
 
 **Each Markdown file is a guide (e.g. django.md is the Django guide)**. If there are code examples that readers might find
 useful I will create directories to contain those.
@@ -18,7 +18,7 @@ like to contribute, I would greatly appreciate your pull requests.
 ## Guides
 - [General](guides/general.md)
 - [Django](guides/django.md)
-- [Javascript/jQuery](guides/Javascript.md)
+- [Javascript/jQuery](guides/javascript.md)
 - [MySQL](guides/mysql.md)
 - [NGINX](guides/nginx.md)
 
