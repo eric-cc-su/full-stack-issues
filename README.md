@@ -18,7 +18,7 @@ like to contribute, I would greatly appreciate your pull requests.
 ## Guides
 - [General](general.md)
 - [Django](django.md)
-- [Javascript/jQuery](Javascript.md)
+- [Javascript/jQuery](javascript.md)
 - [MySQL](mysql.md)
 - [NGINX](nginx.md)
 
