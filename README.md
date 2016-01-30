@@ -15,4 +15,11 @@ This is basically a reminder to myself for stupid things that I personally run i
 out some other issues that other developers or other configurations experience. If you are a developer who would
 like to contribute, I would greatly appreciate your pull requests.
 
+## Guides
+- [General](general.md)
+- [Django](django.md)
+- [Javascript/jQuery](Javascript.md)
+- [MySQL](mysql.md)
+- [NGINX](nginx.md)
+
 *This repo will continue to be updated as I find or remember more typical issues*
