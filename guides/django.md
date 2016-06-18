@@ -2,6 +2,12 @@
 
 **TIP**: Make sure you set `DEBUG = True` in your settings file if you're testing on your local environment
 
+### Internal Server Error
+
+Obviously this has many implications and with debug set to False it can be tough to figure out the exact problem. Some things to try are:
+
+1. Make sure `ALLOWED_HOSTS` in your settings file includes your server name, as well as `localhost` or whatever IP you're using for testing while debug is False.
+
 ### 'No module named...' on startup
 
 If you're using virtual environments make sure you activated the environment before you try starting the django
