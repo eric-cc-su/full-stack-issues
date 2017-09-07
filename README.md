@@ -1,5 +1,5 @@
-# common-web-dev-issues
-A repository of the common web dev issues and solutions that web developers often deal with.
+# Full Stack Issues
+A guide to some of the full stack development issues I've run into.
  
 [original article](http://ericsu.me/tech/2016/01/25/common-web-dev-issues.html)
 
