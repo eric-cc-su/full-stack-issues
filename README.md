@@ -3,10 +3,9 @@ A guide to some of the full stack development issues I've run into.
  
 [original article](http://ericsu.me/tech/2016/01/25/common-web-dev-issues.html)
 
-So you're having some issues in your web environment. Before you start diving
-deep into documentation and Stack Overflow, check this guide to make sure you're not
+If you're having issues somewhere in your web stack, check this guide to make sure you're not
 experiencing one of the really simple configuration issues that countless people have most likely experienced
-before. 
+before.
 
 **Each Markdown file is a guide (e.g. django.md is the Django guide)**. If there are code examples that readers might find
 useful I will create directories to contain those.
