@@ -1,5 +1,14 @@
 ## **General**
 
+### My front-end doesn't update with the latest data, UI changes, etc.
+
+Chances are your stack simply hasn't updated/been restarted.
+1. Run any preprocessors you might have. (ex. I use gulp and Sass for CSS styles `gulp styles`)
+2. Restart your server (ex. `sudo service nginx restart`)
+3. If you have any caching, invoke a refresh of your cache 
+4. Do a hard refresh on your browser (`Cmd/Ctrl + Shift + R` for Chrome)
+    - If your work depends on things like cookies, try clearing your browser data
+
 ### Browser shows "502 Bad Gateway" 
 
 Try starting/restarting your server or any server modules you use (e.g. nginx and uwsgi).
